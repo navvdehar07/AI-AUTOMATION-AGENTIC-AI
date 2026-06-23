@@ -47,15 +47,11 @@ Today I created my first app using [Lovable](https://lovable.dev?utm_source=chat
 
 ### Projects Built:
 
-* calculator App
-* Temperature Converter App
+* calculator App (Calculator App.png)
+* Temperature Converter App (Temperature Converter.png)
 
 This helped me understand how AI can assist in building applications faster.
 
 ## My Experience
 
 Today was a good start. I understood basic concepts of AI and agents. I will continue practicing every day.
-
-
-#Day1 #AIAutomation #AgenticAI #LearningJourney
-
