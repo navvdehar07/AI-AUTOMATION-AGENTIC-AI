@@ -1,5 +1,5 @@
-# Day 2 – Prompt Engineering 
-
+# Prompt Engineering 
+Day 2
 ## Introduction
 
 Today I learned about **Prompt Engineering**, one of the most important skills in AI.
