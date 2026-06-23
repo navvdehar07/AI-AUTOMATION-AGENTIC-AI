@@ -48,6 +48,7 @@ Today I created my first app using [Lovable](https://lovable.dev?utm_source=chat
 ### Projects Built:
 
 * Counter App
+* calculator
 * Temperature Converter App
 
 This helped me understand how AI can assist in building applications faster.
