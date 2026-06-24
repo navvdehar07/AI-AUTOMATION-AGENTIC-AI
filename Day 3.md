@@ -36,7 +36,7 @@ This was my personal app idea created for practice.
 
 ### 2. Daily Expenses Calculator
 
-[View Screenshot](your-image-link-here)
+[Expenses calc.](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Expenses%20calc..png)
 
 This app helps track daily spending and total expenses.
 
