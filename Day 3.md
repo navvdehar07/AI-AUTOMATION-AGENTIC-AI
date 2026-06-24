@@ -28,7 +28,7 @@ These tasks helped improve my thinking and practical building skills.
 
 ### 1. My Own Choice App
 
-[View Screenshot](your-image-link-here)
+[Weather App](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Weather%20App.png)
 
 This was my personal app idea created for practice.
 
