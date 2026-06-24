@@ -52,7 +52,7 @@ This app manages attendance records of students.
 
 ### 4. Notes Making App
 
-[View Screenshot](your-image-link-here)
+[Notes Making](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Notes%20Making.png)
 
 This app helps create and manage notes.
 
