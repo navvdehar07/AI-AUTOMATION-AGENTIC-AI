@@ -44,7 +44,7 @@ This app helps track daily spending and total expenses.
 
 ### 3. College Student Attendance Manager
 
-[View Screenshot](your-image-link-here)
+[Attendance Tracker](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Attendance%20Tracker.png)
 
 This app manages attendance records of students.
 
