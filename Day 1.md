@@ -62,7 +62,7 @@ Today I created my first app using [Lovable](https://lovable.dev?utm_source=chat
 
 ### Projects Built:
 
-* [calculator App](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/Calculator%20App.png)
+* [calculator App](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Notes%20Making.png)
 * [Temperature Converter App](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/Temperature%20Converter.png)
 
 This helped me understand how AI can assist in building applications faster.
