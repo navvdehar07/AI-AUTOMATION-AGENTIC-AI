@@ -1,7 +1,6 @@
 # Course : AI-AUTOMATION-AGENTIC-AI
-Day 1
 
-## Artificial Intelligence (AI)
+## Day-1 Artificial Intelligence (AI)
 
 Today was the first day of my AI Automation and Agentic AI journey.
 
