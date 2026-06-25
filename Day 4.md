@@ -78,7 +78,7 @@ Basic workflow creation.
 
 ### Workflow 2
 
-[View Screenshot](your-image-link-here)
+[Workflow 2](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Workflow%202.png)
 
 
 ---
