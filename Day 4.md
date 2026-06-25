@@ -70,7 +70,7 @@ Today I created my first workflow in n8n.
 
 ### Workflow 1
 
-[View Screenshot](your-image-link-here)
+[Workflow 1](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Workflow%201.png)
 
 Basic workflow creation.
 
@@ -80,7 +80,6 @@ Basic workflow creation.
 
 [View Screenshot](your-image-link-here)
 
-Connected trigger and action nodes.
 
 ---
 
