@@ -10,7 +10,7 @@ In this workflow, we used:
 * Request fields
 * AI Agent
 * Gemini node
-
+[Travel Planner](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Travel%20Planner.png)
 This workflow collects travel details like starting city, destination, budget, days, travel style, and food preference. After receiving the data, AI generates a complete travel plan with itinerary, hotel suggestions, and estimated expenses.
 
 ## 2. Online Shopping Assistant Workflow
