@@ -11,6 +11,8 @@ In this workflow, I learned:
 * How to save customer data and AI responses in Google Sheets.
 * How to send responses back using the Respond to Webhook node.
 
+[AI Customer Support](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Customer%20Support.png)
+
 This helped me understand how businesses can automate customer support.
 
 ### 2. AI Fitness Coach Workflow
