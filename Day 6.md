@@ -2,6 +2,8 @@
 
 Today we created an AI Study Tutor workflow using n8n.
 
+[AI Study Tutor]()
+
 In this workflow, I learned:
 
 * How to connect a webhook with an AI agent.
