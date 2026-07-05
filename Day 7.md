@@ -24,6 +24,8 @@ In this workflow, I learned:
 * How to create personalized plans using prompts.
 * How to automate fitness guidance with n8n.
 
+[AI Fitness Coach](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/AI%20Fitness%20Coach.png)
+
 This workflow showed me how AI can be used in health and fitness automation.
 
 Today’s learning improved my understanding of real-world AI automation use cases and workflow building.
