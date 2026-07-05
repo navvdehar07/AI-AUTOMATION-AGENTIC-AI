@@ -2,7 +2,7 @@
 
 Today we created an AI Study Tutor workflow using n8n.
 
-[AI Study Tutor]()
+[AI Study Tutor](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/AI%20Study%20Tutor.png)
 
 In this workflow, I learned:
 
