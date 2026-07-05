@@ -8,6 +8,8 @@ Today, we created two workflows:
    * Used conditions to check user input and generate responses.
    * Practiced webhook handling and response nodes.
 
+[Number games](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Number%20games.png)
+
 2. **Expense Tracker Workflow**
 
    * Built a workflow to track daily expenses.
