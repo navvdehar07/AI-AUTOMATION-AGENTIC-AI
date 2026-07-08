@@ -4,6 +4,8 @@ Today, we built three useful automation workflows in n8n:
 
 ### 1. Daily News Workflow
 
+[Daily News](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Daily%20News.png)
+
 * Created a workflow to fetch daily news updates automatically.
 * Learned how to use APIs to collect the latest headlines.
 * Organized and formatted news data for better readability.
