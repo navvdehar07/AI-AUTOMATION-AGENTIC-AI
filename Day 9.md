@@ -12,6 +12,8 @@ Today, we built three useful automation workflows in n8n:
 
 ### 2. Weather Update Workflow
 
+[Weather Update](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Weather%20Update.png)
+
 * Built an automation to get daily weather reports.
 * Used weather APIs to fetch temperature, conditions, and forecasts.
 * Learned how to send weather updates through email or other platforms.
