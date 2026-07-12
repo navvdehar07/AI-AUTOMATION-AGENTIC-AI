@@ -1,9 +1,5 @@
 # Day 12 – Multi-Agent E-commerce Website using Antigravity IDE
 
-## Objective
-
-The objective of today's session was to understand the concept of **Multi-Agent AI systems** and build a **Multi-Agent E-commerce Website** using Antigravity IDE.
-
 ## What is a Multi-Agent System?
 
 A Multi-Agent System (MAS) is a collection of multiple AI agents that work together to complete different tasks. Each agent has a specific responsibility, and they communicate with each other to provide faster, more organized, and accurate results.
