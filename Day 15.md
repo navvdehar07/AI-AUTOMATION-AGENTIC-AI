@@ -57,7 +57,4 @@ Today, I built an **AI Content Generator** workflow using **n8n** and **Google S
 By the end of the session, I successfully created an AI-powered workflow that generates social media content automatically and stores it in Google Sheets. This demonstrated how AI and automation can simplify repetitive content creation tasks.
 
 ## Images
-
-* Add screenshots of the Google Sheet.
-* Add a screenshot of the complete n8n workflow.
-* Add a screenshot of the workflow execution results.
+(AI Content Generator)[https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/AI%20Content%20Generator.png]
