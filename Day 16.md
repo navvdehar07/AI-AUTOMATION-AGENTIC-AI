@@ -68,3 +68,4 @@ Today, I built an **AI Content Repurposer Workflow** using **n8n**. The workflow
 ---
 
 ## Image
+[AI Content Repurposer](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/AI%20Content%20Repurposer.png)
