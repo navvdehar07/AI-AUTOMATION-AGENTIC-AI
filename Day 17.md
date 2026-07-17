@@ -52,11 +52,4 @@ Today, I built an **AI Support Triage Agent** workflow using **n8n**. The goal o
 By the end of today's session, I successfully created an AI-powered support workflow that can automatically respond to routine customer queries while safely escalating sensitive or uncertain cases to a human reviewer. This project helped me understand how AI and workflow automation can improve customer support efficiency while maintaining human oversight for important decisions.
 
 ## Image
-
-Add screenshots of:
-
-* Complete n8n workflow
-* AI Agent configuration
-* IF node conditions
-* Successful routine workflow execution
-* Human review branch execution
+[AI Support Triage Agent](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/AI%20Support%20Triage%20Agent.png)
