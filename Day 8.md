@@ -17,6 +17,7 @@ Today, we created two workflows:
    * Stored data in Google Sheets for record keeping.
    * Used AI to analyze or organize expense entries.
 
+[Expense Tracker](https://github.com/navvdehar07/AI-AUTOMATION-AGENTIC-AI/blob/main/images/Expense%20Tracker.png)
 ### What I learned today:
 
 * Better understanding of workflow logic.
